@@ -7,7 +7,7 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5535999543044)
 
-[![GitHub](https://img.shields.io/badge/GitHUbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrRibeir)
+[![GitHub](https://img.shields.io/badge/GitHUbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erick-Ribeir)
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=009EFF)](mailto:ras-erick@hotmail.com)
 
