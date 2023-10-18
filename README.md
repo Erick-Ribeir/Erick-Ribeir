@@ -1,5 +1,5 @@
 # Bem Vindo ao meu Git Hub
-É um grande prazer velo por aqui<br>
+É um grande prazer vê-lo por aqui<br>
 Meu nome é Erick Wildson Ribeiro, sou natural de Olímpio Noronha-MG. Atualmente resido em Machado-MG.<br>
 Sou Formado em Licenciatura em Educação Física na faculdade São Lourenco-UNISEPE, e atualmente sou Graduando no 4º Período em Sistemas de Informação no IFSULDEMINAS- Campus Machado-MG<br>
 Sou bolsista no Pojeto AUTOBOTS onde atuo como monitor de cursos de robótica e automação com arduino. Nosso objetivo é deselvover aulas e projetos com arduino para os cursos que são ofertados para escolas públicas da região.<br>
